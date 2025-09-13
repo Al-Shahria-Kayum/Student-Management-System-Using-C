@@ -1,0 +1,1 @@
+This was a Data Structures course project completed during the second semester. It is a console-based application that does not incorporate any database functionality. Currently, the project contains a few bugs, specifically in the ID insertion logic and the phone number handling
